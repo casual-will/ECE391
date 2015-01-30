@@ -1,4 +1,4 @@
-P       := hw2_2
+P       := hw3_1
 SHELL               = /bin/bash
 
 ALL_SRC := $(wildcard *.sp)
